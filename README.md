@@ -2,10 +2,13 @@
 # 已完成部分
 1.SM3实现与优化
 2.SM3的生日攻击
+
 3.SM3的rho攻击
 4.SM3的长度扩展攻击
 5.SHA256的实现
 6.Merkel树的实现
+#SM3
+![实现](https://user-images.githubusercontent.com/109857507/182013391-fea768f6-bde3-49a3-8101-89c8a65d91ef.png)
 # sha256
 本质上是一种哈希函数，把消息或数据压缩成摘要，使得数据量变小，将数据的格式固定下来。该函数将数据打乱混合，重新创建一个叫做散列值（哈希值）的指纹。
 ![sha256 1111111](https://user-images.githubusercontent.com/109857507/182001848-d86c73b1-c4eb-492d-b241-e3de1ff22c80.png)
